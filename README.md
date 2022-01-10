@@ -1,6 +1,6 @@
 # Coding Activity
 
-<img src= "https://wakatime.com/share/@09da6df9-171a-4950-8424-21c28008a13d/7542b1b1-abe0-4f6c-8d9f-7cf91829d536.svg">
+<img src= "https://wakatime.com/share/@09da6df9-171a-4950-8424-21c28008a13d/19f5a202-dfd2-4f99-8e55-ffa51a894183.svg">
 
 # Languages 
-<img src="https://wakatime.com/share/@09da6df9-171a-4950-8424-21c28008a13d/74111ac9-8f42-45fd-863a-b6dcfc7c5465.svg">
+<img src="https://wakatime.com/share/@09da6df9-171a-4950-8424-21c28008a13d/20a9b3a4-24df-4182-95cb-d633362aa25b.svg">

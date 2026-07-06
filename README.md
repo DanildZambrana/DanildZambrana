@@ -30,10 +30,10 @@ Soy un desarrollador de software de Nicaragua apasionado por resolver problemas 
 <p align="center">
   
   <a href="https://github.com/DanildZambrana">
-    <img align="center" src="https://wakatime.com/share/@09da6df9-171a-4950-8424-21c28008a13d/19f5a202-dfd2-4f99-8e55-ffa51a894183.svg" width="45%" alt="Wakatime Graph">
+    <img align="center" src="https://wakatime.com/share/@09da6df9-171a-4950-8424-21c28008a13d/19f5a202-dfd2-4f99-8e55-ffa51a894183.svg" width="70%" alt="Wakatime Graph">
   </a>
   <a href="https://github.com/DanildZambrana">
-    <img align="center" src="https://wakatime.com/share/@DanildZambrana/3a85ce4e-98e7-4613-a915-20b0ecd0b6d1.svg" width="45%" alt="DanildZambrana's Wakatime Stats">
+    <img align="center" src="https://wakatime.com/share/@DanildZambrana/24817355-3804-4607-b929-2c96c88149e6.svg" width="70%" alt="DanildZambrana's Wakatime Stats">
   </a>
 </p>
 

@@ -26,19 +26,6 @@ Soy un desarrollador de software de Nicaragua apasionado por resolver problemas 
 - 🎓 Estudiante de Ingeniería, uniendo la academia con la práctica profesional.
 ---
 
-# 💻 Coding Activity
-<p align="center">
-  
-  <a href="https://github.com/DanildZambrana">
-    <img align="center" src="https://wakatime.com/share/@09da6df9-171a-4950-8424-21c28008a13d/19f5a202-dfd2-4f99-8e55-ffa51a894183.svg" width="70%" alt="Wakatime Graph">
-  </a>
-  <a href="https://github.com/DanildZambrana">
-    <img align="center" src="https://wakatime.com/share/@DanildZambrana/24817355-3804-4607-b929-2c96c88149e6.svg" width="70%" alt="DanildZambrana's Wakatime Stats">
-  </a>
-</p>
-
----
-
 ### 🤝 Conectemos
 
 * **Ubicación:** Nicaragua 🇳🇮
